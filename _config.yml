@@ -23,7 +23,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-loading-lazy
 
-theme: jekyll-theme-satellite
+remote_theme: jekyll-theme-satellite/jekyll-theme-satellite@v1.3.1
 exclude:
   - docs/
 
