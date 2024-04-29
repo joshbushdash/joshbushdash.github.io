@@ -4,9 +4,8 @@ logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/WechatIMG53.jpg"
 
 # Social Links
-email: zihao.zheng@nyu.edu
-linkedin_username: linkedin
-facebook_username: facebook
+email: zhzh614200@gmail.com
+linkedin_username: zihao-zheng-extension
 
 # External API
 giscus_repo:
@@ -23,7 +22,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-loading-lazy
 
-remote_theme: jekyll-theme-satellite/jekyll-theme-satellite@v1.3.1
 exclude:
   - docs/
 
