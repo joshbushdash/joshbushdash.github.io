@@ -16,7 +16,7 @@ giscus_repo:
 giscus_repoId:
 giscus_category:
 giscus_categoryId:
-goatcounter_code:
+goatcounter_code: joshbushdash
 google_analytics:
 
 # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -55,5 +55,3 @@ defaults:
 kramdown:
   input: GFM
   hard_wrap: true
-
-goatcounter_code: joshbushdash
