@@ -1,7 +1,7 @@
 ---
 title: "Five places in June"
-date: "2024-05-10"
-thumbnail: "/assets/img/La-Mancha.jpg"
+date: "2024-06-23"
+thumbnail: "/assets/img/2024/06/WechatIMG140.jpg"
 bookmark: true
 ---
  
