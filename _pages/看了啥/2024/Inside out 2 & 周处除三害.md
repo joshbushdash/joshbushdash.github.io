@@ -1,7 +1,7 @@
 ---
 title: "Inside out 2 & 周处除三害"
 tags:
-    - TV shows
+    - Movies
 date: "2024-06-23"
 thumbnail: "/assets/img/thumbnail/book.jpg"
 bookmark: true
