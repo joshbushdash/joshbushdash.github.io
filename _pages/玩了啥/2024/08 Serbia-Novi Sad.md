@@ -7,7 +7,7 @@ thumbnail: "/assets/img/2024/08/IMG_2322.jpg"
 bookmark: true
 ---
 
-When I was in Novi Sad, I felt sad...
+When I was in Novi Sad, I felt a new kind of saddness...
 
 ![](/assets/img/2024/08/IMG_2138.jpg)
 ![](/assets/img/2024/08/IMG_2147.jpg)

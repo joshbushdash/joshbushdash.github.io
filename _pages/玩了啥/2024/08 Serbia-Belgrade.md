@@ -8,6 +8,7 @@ bookmark: true
 ---
 
 I love Belgrade, the castle in the cloud, the beautiful streets, Ed Sheeran concert...
+
 ![](/assets/img/2024/08/IMG_1633.jpg)
 ![](/assets/img/2024/08/IMG_1637.jpg)
 ![](/assets/img/2024/08/IMG_1662.jpg)
