@@ -1,5 +1,5 @@
 ---
-title: "Fish Market"
+title: "Dubai Weekend"
 date: "2024-08-04"
 thumbnail: "/assets/img/2024/08/IMG_1549"
 bookmark: true
