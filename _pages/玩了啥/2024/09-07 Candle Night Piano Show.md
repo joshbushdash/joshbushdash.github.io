@@ -4,13 +4,13 @@ tags:
     - music events
     - coldplay
 date: "2024-09-07"
-thumbnail: "/assets/img/2024/09/candle_night_piano.jpg"
+thumbnail: "/assets/img/thumbnail/nightgardenflower.jpg"
 bookmark: true
 ---
 
 周末去看了一场蜡烛夜的钢琴演奏会，主题是Coldplay乐队的歌曲。整个音乐厅被上百支蜡烛环绕，营造出一种梦幻而温暖的氛围。
 
-![](/assets/img/2024/09/candle_night_piano.jpg)
+![](/assets/img/2024/0516/911715878455_.pic.jpg)
 
 演奏会选择了Coldplay的经典曲目，包括《Viva La Vida》、《Yellow》、《The Scientist》和《Fix You》等。钢琴演奏将流行乐转化为古典风格，虽然没有乐队现场演出的震撼力，但在烛光的映衬下别有一番味道。
 
