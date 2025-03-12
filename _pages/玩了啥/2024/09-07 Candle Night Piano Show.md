@@ -21,3 +21,9 @@ bookmark: true
 对于熟悉Coldplay音乐的人来说，这样的演出可能不会带来太多新鲜感，但作为一种不同形式的音乐体验，偶尔参与一次也是不错的选择。适合那些想要在周末晚上寻找一些安静休闲活动的人。
 
 总结：虽然演奏本身不算惊艳，但整体的烛光氛围和视觉体验还是挺好的。
+
+<center>
+    <video controls>
+      <source src="/assets/img/2024/09/10_1741807901.mp4" type="video/mp4">
+    </video>
+</center>
