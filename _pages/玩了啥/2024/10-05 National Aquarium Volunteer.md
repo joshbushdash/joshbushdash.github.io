@@ -1,8 +1,7 @@
 ---
 title: "National Aquarium Volunteer Day"
 tags:
-    - school activities
-    - volunteer
+    - university activities
 date: "2024-10-05"
 thumbnail: "/assets/img/2024/10/national qauarium.pic.jpg"
 bookmark: true
