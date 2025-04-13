@@ -1,0 +1,15 @@
+/* Custom profile image fix */
+.site-avatar img {
+  width: 9rem;
+  aspect-ratio: 1; /* This is forcing a square (1:1) aspect ratio */
+  border-radius: 50%;
+}
+
+/* Force correct display */
+.site-avatar a {
+  display: block !important;
+}
+
+.site-avatar a img {
+  display: inline-block !important;
+}

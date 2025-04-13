@@ -1,7 +1,8 @@
 title: 郑梓豪's Personal Website
 description: "Satellite - jekyll blog theme"
 logo_img: "/assets/img/favicon.webp"
-profile_img: "/assets/img/profile/bar_profile.jpg"
+# Temporarily using an existing image to ensure functionality
+profile_img: "/assets/img/Belgian Cafe.jpeg"
 
 # Social Links
 email: zhzh614200@gmail.com

@@ -48,7 +48,8 @@
   img {
     display:none;
     width:9rem;
-    aspect-ratio:1;
+    height:9rem;
+    object-fit:cover;
     border-radius:50%;
     outline:4.5rem solid rgba(64,64,64,0.5);
     outline-offset:-4.5rem;
